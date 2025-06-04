@@ -1,0 +1,17 @@
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\bin\Debug\net8.0-windows\OyuncuAdayFormu.exe
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\bin\Debug\net8.0-windows\OyuncuAdayFormu.deps.json
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\bin\Debug\net8.0-windows\OyuncuAdayFormu.runtimeconfig.json
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\bin\Debug\net8.0-windows\OyuncuAdayFormu.dll
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\bin\Debug\net8.0-windows\OyuncuAdayFormu.pdb
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.Form1.resources
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.Properties.Resources.resources
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.dll
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\refint\OyuncuAdayFormu.dll
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.pdb
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\OyuncuAdayFormu.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\OyuncuAdayFormu\OyuncuAdayFormu\obj\Debug\net8.0-windows\ref\OyuncuAdayFormu.dll

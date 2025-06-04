@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OyuncuAdayFormu/1.0.0": {
+        "runtime": {
+          "OyuncuAdayFormu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OyuncuAdayFormu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
